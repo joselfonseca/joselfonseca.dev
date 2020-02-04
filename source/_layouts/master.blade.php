@@ -64,6 +64,7 @@
             </ul>
         </footer>
 
+        <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
         <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
 
         @stack('scripts')
