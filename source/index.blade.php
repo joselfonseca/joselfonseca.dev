@@ -78,7 +78,7 @@
                 <div class="px-6 py-4">
                     <div class="font-bold text-xl mb-2">Docker</div>
                     <p class="text-gray-700 text-base">
-                        I run all my projects using docker containers for development, staging and production environments, orchestrating them with docker-compose, Rancher server and Kubernetes.
+                        I run most of my projects using docker containers for development, staging and production environments, orchestrating them with docker-compose, Rancher server and Kubernetes.
                     </p>
                 </div>
             </div>

@@ -7,6 +7,10 @@
         Live Coding
     </a>
 
+    <a title="{{ $page->siteName }} Live Coding" href="/videos" class="ml-6 text-gray-700 hover:text-blue-600 {{ $page->isActive('/videos') ? 'active text-blue-600' : '' }}">
+        Videos and Series
+    </a>
+
     <a title="{{ $page->siteName }} Blog" href="https://dev.to/joselfonseca" class="ml-6 text-gray-700 hover:text-blue-600" target="_blank">
         Blog in dev.to
     </a>
