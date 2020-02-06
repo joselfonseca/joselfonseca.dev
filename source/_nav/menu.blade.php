@@ -15,6 +15,10 @@
         Blog in dev.to
     </a>
 
+    <a title="{{ $page->siteName }} uses" href="/uses" class="ml-6 text-gray-700 hover:text-blue-600 {{ $page->isActive('/uses') ? 'active text-blue-600' : '' }}">
+        What I use
+    </a>
+
     <a title="{{ $page->siteName }} Contact" href="/contact"
         class="ml-6 text-gray-700 hover:text-blue-600 {{ $page->isActive('/contact') ? 'active text-blue-600' : '' }}">
         Contact
