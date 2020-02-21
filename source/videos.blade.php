@@ -37,7 +37,7 @@
                     <iframe class="absolute" width="100%" height="100%" src="https://www.youtube.com/embed/qCzD5YhFluI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
                 <p>Installing Rancher server in AWS to run docker containers (Spanish).</p>
-                <a class="bg-transparent text-center hover:bg-blue-500 text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded" href="https://www.youtube.com/embed/qCzD5YhFluI" target="_blank">See in Youtube</a>
+                <a class="bg-transparent text-center hover:bg-blue-500 text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded" href="https://www.youtube.com/watch?v=qCzD5YhFluI" target="_blank">See in Youtube</a>
             </div>
         </div>
         <div class="md:w-1/2 sm:w-full">
@@ -47,7 +47,7 @@
                     <iframe class="absolute" width="100%" height="100%" src="https://www.youtube.com/embed/qfW3dX8Myxg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
                 <p>Using Prisma and Node JS to create a GraphQL server (Spanish).</p>
-                <a class="bg-transparent text-center hover:bg-blue-500 text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded" href="https://www.youtube.com/playlist?list=PLWIk9Jo3Sp-V36ddy-x0_O_inB2s8_ALw" target="_blank">See in Youtube</a>
+                <a class="bg-transparent text-center hover:bg-blue-500 text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded" href="https://www.youtube.com/watch?v=qfW3dX8Myxg" target="_blank">See in Youtube</a>
             </div>
         </div>
     </div>
