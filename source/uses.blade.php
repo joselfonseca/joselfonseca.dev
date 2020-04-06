@@ -17,6 +17,9 @@
         <li>
             Samsung curve monitor 22" as a second screen
         </li>
+        <li>
+            Desktop Windows PC, Rizen 5 3600, 16GB Ram, 250 SSD disk (I use this when I need the MackBook to be free or I leave it at the office)
+        </li>
     </ul>
     <h3>Software for work</h3>
     <ul>
@@ -45,7 +48,7 @@
     <h3>Software for Streaming or recording Live Coding</h3>
     <ul>
         <li>
-            <a href="https://obsproject.com/" target="_blank">OBS</a> to encode and send to youtube or twitch streams
+            <a href="https://www.ecamm.com/mac/ecammlive/" target="_blank">Ecamm live</a> to encode and send to youtube or twitch streams
         </li>
         <li>
             <a href="https://www.telestream.net/screenflow/overview.htm" target="_blank">Screen Flow</a> to record and edit videos

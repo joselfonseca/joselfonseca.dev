@@ -12,6 +12,26 @@
     <div class="flex flex-wrap">
         <div class="md:w-1/2 sm:w-full">
             <div class="m-4 rounded overflow-hidden shadow-lg p-4">
+                <h4>GraphQL, Laravel y Vue JS</h4>
+                <div class="aspect-ratio-16/9 relative">
+                    <iframe class="absolute" width="100%" height="100%" src="https://www.youtube.com/embed/videoseries?list=PLWIk9Jo3Sp-VTXF1e-vJ9KdM-7jFjXR1l" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+                <p>Live coding using GraphQL with Laravel and Vue JS to build a simple income and expenses app (Spanish).</p>
+                <a class="bg-transparent text-center hover:bg-blue-500 text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded" href="https://www.youtube.com/playlist?list=PLWIk9Jo3Sp-VTXF1e-vJ9KdM-7jFjXR1l" target="_blank">See all videos</a>
+            </div>
+        </div>
+        <div class="md:w-1/2 sm:w-full">
+            <div class="m-4 rounded overflow-hidden shadow-lg p-4">
+                <h4>Trabajando en Open Source</h4>
+                <div class="aspect-ratio-16/9 relative">
+                    <iframe class="absolute" width="100%" height="100%" src="https://www.youtube.com/embed/QX8w03hUdcI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+                <p>Live coding talking about how is the open source work (Spanish).</p>
+                <a class="bg-transparent text-center hover:bg-blue-500 text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded" href="https://www.youtube.com/watch?v=QX8w03hUdcI" target="_blank">See in youtube</a>
+            </div>
+        </div>
+        <div class="md:w-1/2 sm:w-full">
+            <div class="m-4 rounded overflow-hidden shadow-lg p-4">
                 <h4>Constuyendo Eventis con Laravel Nova</h4>
                 <div class="aspect-ratio-16/9 relative">
                     <iframe class="absolute" width="100%" height="100%" src="https://www.youtube.com/embed/videoseries?list=PLWIk9Jo3Sp-Vu_qYOFUkwSMTjZMefbyiu" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
