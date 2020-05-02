@@ -66,7 +66,9 @@
 
         <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
         <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
-
+        <!-- Fathom - beautiful, simple website analytics -->
+        <script src="https://cdn.usefathom.com/3.js" site="JAHMXHYR"></script>
+        <!-- / Fathom -->
         @stack('scripts')
     </body>
 </html>

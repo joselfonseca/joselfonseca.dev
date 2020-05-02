@@ -75,6 +75,16 @@
     <div class="flex flex-wrap">
         <div class="md:w-1/2 sm:w-full">
             <div class="m-4 rounded overflow-hidden shadow-lg p-4">
+                <h4>Medellin PHP Meetup - April 30 2020</h4>
+                <div class="aspect-ratio-16/9 relative">
+                    <iframe class="absolute" width="100%" height="100%" src="https://www.youtube.com/embed/rdWb9xR1HXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+                <p>Talk in the Medellin PHP meetup - talking about GraphQL (Spanish).</p>
+                <a class="bg-transparent text-center hover:bg-blue-500 text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded" href="https://www.youtube.com/watch?v=rdWb9xR1HXA" target="_blank">See in Youtube</a>
+            </div>
+        </div>
+        <div class="md:w-1/2 sm:w-full">
+            <div class="m-4 rounded overflow-hidden shadow-lg p-4">
                 <h4>PEUMConf 2018 - Serverless GraphQL</h4>
                 <div class="aspect-ratio-16/9 relative">
                     <iframe class="absolute" width="100%" height="100%" src="https://www.youtube.com/embed/yLD4gh0kLGE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
