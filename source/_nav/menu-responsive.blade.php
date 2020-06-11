@@ -6,11 +6,6 @@
             </a>
         </li>
         <li class="pl-4">
-            <a title="{{ $page->siteName }} Live Coding" href="/live" class="nav-menu__item hover:text-blue-500 {{ $page->isActive('/live') ? 'active text-blue' : '' }}">
-                Live Coding
-            </a>
-        </li>
-        <li class="pl-4">
             <a title="{{ $page->siteName }} Live Coding" href="/videos" class="nav-menu__item hover:text-blue-500 {{ $page->isActive('/videos') ? 'active text-blue' : '' }}">
                 Videos and Series
             </a>

@@ -3,10 +3,6 @@
         Open Source
     </a>
 
-    <a title="{{ $page->siteName }} Live Coding" href="/live" class="ml-6 text-gray-700 hover:text-blue-600 {{ $page->isActive('/live') ? 'active text-blue-600' : '' }}">
-        Live Coding
-    </a>
-
     <a title="{{ $page->siteName }} Live Coding" href="/videos" class="ml-6 text-gray-700 hover:text-blue-600 {{ $page->isActive('/videos') ? 'active text-blue-600' : '' }}">
         Videos and Series
     </a>
