@@ -11,7 +11,7 @@
     <p>I've recorded a few video series and tutorials about Laravel, PHP, Docker and more.</p>
     <div class="flex flex-wrap">
         <div class="md:w-1/2 sm:w-full">
-            <div class="m-4 rounded overflow-hidden shadow-lg p-4">
+            <div class="m-4 rounded overflow-hidden shadow-lg p-4 bg-white">
                 <h4>GraphQL, Laravel y Vue JS</h4>
                 <div class="aspect-ratio-16/9 relative">
                     <iframe class="absolute" width="100%" height="100%" src="https://www.youtube.com/embed/videoseries?list=PLWIk9Jo3Sp-VTXF1e-vJ9KdM-7jFjXR1l" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -21,7 +21,7 @@
             </div>
         </div>
         <div class="md:w-1/2 sm:w-full">
-            <div class="m-4 rounded overflow-hidden shadow-lg p-4">
+            <div class="m-4 rounded overflow-hidden shadow-lg p-4 bg-white">
                 <h4>Trabajando en Open Source</h4>
                 <div class="aspect-ratio-16/9 relative">
                     <iframe class="absolute" width="100%" height="100%" src="https://www.youtube.com/embed/QX8w03hUdcI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -31,7 +31,7 @@
             </div>
         </div>
         <div class="md:w-1/2 sm:w-full">
-            <div class="m-4 rounded overflow-hidden shadow-lg p-4">
+            <div class="m-4 rounded overflow-hidden shadow-lg p-4 bg-white">
                 <h4>Constuyendo Eventis con Laravel Nova</h4>
                 <div class="aspect-ratio-16/9 relative">
                     <iframe class="absolute" width="100%" height="100%" src="https://www.youtube.com/embed/videoseries?list=PLWIk9Jo3Sp-Vu_qYOFUkwSMTjZMefbyiu" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -41,7 +41,7 @@
             </div>
         </div>
         <div class="md:w-1/2 sm:w-full">
-            <div class="m-4 rounded overflow-hidden shadow-lg p-4">
+            <div class="m-4 rounded overflow-hidden shadow-lg p-4 bg-white">
                 <h4>Dockerizando</h4>
                 <div class="aspect-ratio-16/9 relative">
                     <iframe class="absolute" width="100%" height="100%" src="https://www.youtube.com/embed/videoseries?list=PLWIk9Jo3Sp-V36ddy-x0_O_inB2s8_ALw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -51,7 +51,7 @@
             </div>
         </div>
         <div class="md:w-1/2 sm:w-full">
-            <div class="m-4 rounded overflow-hidden shadow-lg p-4">
+            <div class="m-4 rounded overflow-hidden shadow-lg p-4 bg-white">
                 <h4>AWS and Rancher Server</h4>
                 <div class="aspect-ratio-16/9 relative">
                     <iframe class="absolute" width="100%" height="100%" src="https://www.youtube.com/embed/qCzD5YhFluI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -61,7 +61,7 @@
             </div>
         </div>
         <div class="md:w-1/2 sm:w-full">
-            <div class="m-4 rounded overflow-hidden shadow-lg p-4">
+            <div class="m-4 rounded overflow-hidden shadow-lg p-4 bg-white">
                 <h4>GraphQL with Prisma</h4>
                 <div class="aspect-ratio-16/9 relative">
                     <iframe class="absolute" width="100%" height="100%" src="https://www.youtube.com/embed/qfW3dX8Myxg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -74,7 +74,7 @@
     <h2>Meet-ups and talks</h2>
     <div class="flex flex-wrap">
         <div class="md:w-1/2 sm:w-full">
-            <div class="m-4 rounded overflow-hidden shadow-lg p-4">
+            <div class="m-4 rounded overflow-hidden shadow-lg p-4 bg-white">
                 <h4>Medellin PHP Meetup - April 30 2020</h4>
                 <div class="aspect-ratio-16/9 relative">
                     <iframe class="absolute" width="100%" height="100%" src="https://www.youtube.com/embed/rdWb9xR1HXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -84,7 +84,7 @@
             </div>
         </div>
         <div class="md:w-1/2 sm:w-full">
-            <div class="m-4 rounded overflow-hidden shadow-lg p-4">
+            <div class="m-4 rounded overflow-hidden shadow-lg p-4 bg-white">
                 <h4>PEUMConf 2018 - Serverless GraphQL</h4>
                 <div class="aspect-ratio-16/9 relative">
                     <iframe class="absolute" width="100%" height="100%" src="https://www.youtube.com/embed/yLD4gh0kLGE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -94,7 +94,7 @@
             </div>
         </div>
         <div class="md:w-1/2 sm:w-full">
-            <div class="m-4 rounded overflow-hidden shadow-lg p-4">
+            <div class="m-4 rounded overflow-hidden shadow-lg p-4 bg-white">
                 <h4>Lunch and Learn for Software Gurus</h4>
                 <div class="aspect-ratio-16/9 relative">
                     <iframe class="absolute" width="100%" height="100%" src="https://www.youtube.com/embed/0u8Sgv8-U_M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -104,7 +104,7 @@
             </div>
         </div>
         <div class="md:w-1/2 sm:w-full">
-            <div class="m-4 rounded overflow-hidden shadow-lg p-4">
+            <div class="m-4 rounded overflow-hidden shadow-lg p-4 bg-white">
                 <h4>GraphQL and Laravel</h4>
                 <div class="aspect-ratio-16/9 relative">
                     <iframe class="absolute" width="100%" height="100%" src="https://www.youtube.com/embed/JAiBv5cO_tw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -114,7 +114,7 @@
             </div>
         </div>
         <div class="md:w-1/2 sm:w-full">
-            <div class="m-4 rounded overflow-hidden shadow-lg p-4">
+            <div class="m-4 rounded overflow-hidden shadow-lg p-4 bg-white">
                 <h4>PHP Colombia Meet-up</h4>
                 <div class="aspect-ratio-16/9 relative">
                     <iframe class="absolute" width="100%" height="100%" src="https://www.youtube.com/embed/dkgg9XzYFwI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

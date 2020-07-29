@@ -1,4 +1,4 @@
-<div class="flex flex-col mb-4 w-full p-6 rounded overflow-hidden shadow-lg">
+<div class="flex flex-col mb-4 w-full p-6 rounded overflow-hidden shadow-lg bg-white">
     <img src="{{ $post->cover_image }}" class="m-4">
     <h2 class="text-3xl mt-0">
         <a href="{{ $post->url }}" title="Read more - {{ $post->title }}" target="_blank" class="text-gray-900 font-extrabold">{{ $post->title }}</a>
