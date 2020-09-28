@@ -18,7 +18,7 @@
             Samsung curve monitor 22" as a second screen
         </li>
         <li>
-            Desktop Windows PC, Rizen 5 3600, 16GB Ram, 250 SSD disk (I use this when I need the MackBook to be free or I leave it at the office)
+            Ubuntu Desktop PC, Rizen 5 3600, 16GB Ram, 250 SSD disk (I use this when I need the MackBook to be free or I leave it at the office)
         </li>
     </ul>
     <h3>Software for work</h3>
@@ -48,9 +48,6 @@
     <h3>Software for Streaming or recording Live Coding</h3>
     <ul>
         <li>
-            <a href="https://www.ecamm.com/mac/ecammlive/" target="_blank">Ecamm live</a> to encode and send to youtube or twitch streams
-        </li>
-        <li>
             <a href="https://www.telestream.net/screenflow/overview.htm" target="_blank">Screen Flow</a> to record and edit videos
         </li>
         <li>
@@ -69,16 +66,13 @@
     <h3>Hardware for DJ</h3>
     <ul>
         <li>
-            <a href="https://www.amazon.com/gp/product/B06XF7VHTQ/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1" target="_blank">Pioneer DJM250MK2</a> As mixer
+            <a href="https://www.amazon.com/-/es/Pioneer-DDJ1000SRT-Controlador-de-DJ/dp/B07VYW5D36/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2IFA8NAO4RSDC&dchild=1&keywords=pioneer+ddj+1000+srt&qid=1601257327&sprefix=pioneer+ddj+1000%2Caps%2C211&sr=8-1" target="_blank">Pioneer DDJ 1000 SRT</a> as a DJ controller
         </li>
         <li>
             <a href="https://www.amazon.com/gp/product/B06XHFQSRT/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1" target="_blank">Stanton T.62 MKII</a> - 2 turntables
         </li>
         <li>
             <a href="https://www.amazon.com/gp/product/B001GVJ9XG/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1" target="_blank">Ortofon Omega</a> - 2 Phono Cartridges for thee turntables
-        </li>
-        <li>
-            <a href="https://www.amazon.com/Pioneer-DJ-DDJ-SB3-Controller/dp/B07B4SP526/ref=sr_1_3?keywords=pioneer+dj+controller+sb2&qid=1581021850&s=musical-instruments&sr=1-3" target="_blank">Pioneer DJ DJ Controller, Black, (DDJSB2)</a> As a DJ controller but the one I have is the SB2 which is no longer sold.
         </li>
         <li>
             <a href="https://www.amazon.com/gp/product/B01M1AU6LR/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1" target="_blank">Tascam PORTABLE DIGITAL RECORDER-RED</a> As a digital recorder for my DJ sets.
