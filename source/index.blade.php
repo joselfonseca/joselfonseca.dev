@@ -10,7 +10,7 @@
 
         <p class="mb-6">Systems engineer, passionate for web development and software architecture. 10+ years of experience working with software and App development. Vinyl House music lover and passionate for cars.</p>
 
-        <p class="mb-6">I am currently a software architect at <a href="https://domandtom.com" target="_blank">Dom and Tom inc</a>  working with development teams, project managers, designers and UX.</p>
+        <p class="mb-6">I am currently a Backend Software engineer at <a href="https://overactive.com/" target="_blank">Overactive</a> </p>
     </div>
     <div class="mt-16">
         <h2>Skills</h2>

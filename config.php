@@ -1,5 +1,7 @@
 <?php
 
+use Illuminate\Support\Str;
+
 return [
     'baseUrl' => 'http://localhost:3000',
     'production' => false,
@@ -62,6 +64,6 @@ return [
             : $cleaned;
     },
     'isActive' => function ($page, $path) {
-        return ends_with(trimPath($page->getPath()), trimPath($path));
+        return Str::endsWith(trimPath($page->getPath()), trimPath($path));
     },
 ];
